@@ -1,0 +1,10 @@
+# Backend
+backend/.env
+backend/.env.local
+backend/*.key
+backend/*.pem
+
+# Frontend
+frontend/bankapp_front/.env
+frontend/bankapp_front/.env.local
+frontend/bankapp_front/config/api.ts
